@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+.cart-left {
+  display: flex;
+  flex-direction: column;
+}
+.cart-right {
+  display: flex;
+  flex-direction: column;
+}
+.content-cart {
+  display: flex;
+}
+.info-item {
+  flex: 4;
+}
+.image-item {
+  flex: 1;
+}
